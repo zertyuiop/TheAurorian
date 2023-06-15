@@ -86,7 +86,7 @@ dependencies {
     //deobfCompile 'com.mod-buildcraft:buildcraft:6.0.8:dev'
     //deobfProvided 'com.mod-buildcraft:buildcraft:6.0.8:dev'
 
-    minecraft 'net.minecraftforge:forge:1.12.2-14.23.5.2859'
+    minecraft 'net.minecraftforge:forge:1.12.2-14.23.5.2860'
     compileOnly "slimeknights.mantle:Mantle:${version_mantle}"
     compileOnly "slimeknights:TConstruct:${version_tconstruct}"
     compileOnly "vazkii.patchouli:Patchouli:${version_patchouli}"
